@@ -1,0 +1,3 @@
+/home/himadri/Desktop/Himadri/project/calculator_backend/build/CMakeFiles/rebuild_cache.dir
+/home/himadri/Desktop/Himadri/project/calculator_backend/build/CMakeFiles/edit_cache.dir
+/home/himadri/Desktop/Himadri/project/calculator_backend/build/CMakeFiles/CalculatorAPI.dir
